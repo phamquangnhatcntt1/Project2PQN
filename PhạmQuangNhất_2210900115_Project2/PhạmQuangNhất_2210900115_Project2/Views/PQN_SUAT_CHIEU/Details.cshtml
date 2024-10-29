@@ -1,0 +1,50 @@
+﻿@model PhạmQuangNhất_2210900115_Project2.Models.SUAT_CHIEU
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>SUAT_CHIEU</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ThoiGianBatDau)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ThoiGianBatDau)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ThoiGianKetThuc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ThoiGianKetThuc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PHIM.TenPhim)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PHIM.TenPhim)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PHONG_CHIEU.TenPhong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PHONG_CHIEU.TenPhong)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.MaSuatChieu }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
