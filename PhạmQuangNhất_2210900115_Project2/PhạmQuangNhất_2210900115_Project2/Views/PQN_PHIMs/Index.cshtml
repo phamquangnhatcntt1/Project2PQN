@@ -1,57 +1,145 @@
 ﻿@model IEnumerable<PhạmQuangNhất_2210900115_Project2.Models.PHIM>
 
-@{
-    ViewBag.Title = "Index";
-}
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danh Sách Phim</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 20px;
+        }
 
-<h2>Index</h2>
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+            text-align: center;
+            font-weight: 700;
+        }
 
-<p>
-    @Html.ActionLink("Create New", "Create")
-</p>
-<table class="table">
-    <tr>
-        <th>
-            @Html.DisplayNameFor(model => model.TenPhim)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.ThoiLuong)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.TheLoai)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.DaoDien)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.MoTa)
-        </th>
-        <th></th>
-    </tr>
+        .btn-primary {
+            background-color: #e50914; /* Vivid red */
+            color: #fff;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s, transform 0.2s;
+        }
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.TenPhim)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.ThoiLuong)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.TheLoai)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.DaoDien)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.MoTa)
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.MaPhim }) |
-            @Html.ActionLink("Details", "Details", new { id=item.MaPhim }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.MaPhim })
-        </td>
-    </tr>
-}
+            .btn-primary:hover {
+                background-color: #b20710;
+                transform: scale(1.05);
+            }
 
-</table>
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            border: 1px solid #dee2e6;
+        }
+
+            .table th, .table td {
+                padding: 12px;
+                text-align: left;
+                border-bottom: 1px solid #dee2e6;
+            }
+
+            .table th {
+                background-color: #343a40; /* Dark header */
+                color: white;
+                text-transform: uppercase;
+            }
+
+            .table tr:hover {
+                background-color: #f1f1f1;
+            }
+
+            .table img {
+                width: 100px; /* Slightly larger images */
+                height: auto;
+                border-radius: 4px;
+            }
+
+        .action-links {
+            display: flex;
+            justify-content: space-around;
+        }
+
+        .nav-link {
+            color: #e50914; /* Consistent red */
+            text-decoration: none;
+            padding: 0 10px;
+            transition: color 0.3s;
+        }
+
+            .nav-link:hover {
+                color: #b20710;
+            }
+
+        .table tbody tr {
+            transition: background-color 0.3s;
+        }
+
+    </style>
+</head>
+<body>
+
+    <h2>Danh Sách Phim</h2>
+
+    <p>
+        <a href="/Phim/Create" class="btn btn-primary">Tạo Mới</a>
+    </p>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Hình Ảnh</th>
+                <th>Tên Phim</th>
+                <th>Thời Lượng</th>
+                <th>Thể Loại</th>
+                <th>Đạo Diễn</th>
+                <th>Mô Tả</th>
+                <th>Hành Động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.HinhAnh))
+                        {
+                            <img src="@Url.Content(item.HinhAnh)" alt="Hình ảnh phim @item.TenPhim, đạo diễn @item.DaoDien" />
+                        }
+                        else
+                        {
+                            <img src="~/Content/Images/placeholder.png" alt="Placeholder" />
+                        }
+                    </td>
+                    <td>@Html.DisplayFor(modelItem => item.TenPhim)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ThoiLuong)</td>
+                    <td>@Html.DisplayFor(modelItem => item.TheLoai)</td>
+                    <td>@Html.DisplayFor(modelItem => item.DaoDien)</td>
+                    <td>@Html.DisplayFor(modelItem => item.MoTa)</td>
+                    <td class="action-links">
+                        <a href="@Url.Action("Edit", new { id = item.MaPhim })" class="nav-link">Sửa</a> |
+                        <a href="@Url.Action("Details", new { id = item.MaPhim })" class="nav-link">Chi Tiết</a> |
+                        <a href="@Url.Action("Delete", new { id = item.MaPhim })" class="nav-link" onclick="return confirm('Bạn có chắc chắn muốn xóa phim này?');">Xóa</a>
+                        <a href="@Url.Action("Index", "PQN_VEs")" class="nav-link">Đặt Vé</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</body>
+</html>

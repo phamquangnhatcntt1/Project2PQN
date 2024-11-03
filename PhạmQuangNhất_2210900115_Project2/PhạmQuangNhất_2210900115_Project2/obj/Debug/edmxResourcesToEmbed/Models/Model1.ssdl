@@ -37,6 +37,7 @@
     <Property Name="TheLoai" Type="varchar" MaxLength="50" />
     <Property Name="DaoDien" Type="varchar" MaxLength="100" />
     <Property Name="MoTa" Type="text" />
+    <Property Name="HinhAnh" Type="varchar" MaxLength="50" />
   </EntityType>
   <EntityType Name="PHONG_CHIEU">
     <Key>

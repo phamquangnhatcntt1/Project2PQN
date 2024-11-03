@@ -12,7 +12,7 @@ namespace PhạmQuangNhất_2210900115_Project2.Controllers
 {
     public class PQN_NHAN_VIENController : Controller
     {
-        private Entities db = new Entities();
+        private Entities1 db = new Entities1();
 
         // GET: PQN_NHAN_VIEN
         public ActionResult Index()

@@ -1,10 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Project2PQN\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\",
+  "WorkspaceRootPath": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project2PQN\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\views\\pqn_phims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\views\\pqn_phims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|d:\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_vescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_vescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\views\\pqn_phims\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\views\\pqn_phims\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\views\\pqn_phims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\views\\pqn_phims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_suat_chieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_suat_chieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_phong_chieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_phong_chieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|d:\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_phimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_phimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_quan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_quan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_nhan_viencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_nhan_viencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_khach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\controllers\\pqn_khach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +70,168 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:13:20.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PQN_NHAN_VIENController.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_NHAN_VIENController.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_NHAN_VIENController.cs",
+              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_NHAN_VIENController.cs",
+              "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_NHAN_VIENController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:58:54.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Project2PQN\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Project2PQN\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAB9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T13:47:50.895Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\PQN_PHIMs\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\PQN_PHIMs\\Create.cshtml",
+              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\PQN_PHIMs\\Create.cshtml",
+              "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\PQN_PHIMs\\Create.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T13:01:22.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\PQN_PHIMs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\PQN_PHIMs\\Edit.cshtml",
+              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\PQN_PHIMs\\Edit.cshtml",
+              "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\PQN_PHIMs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T13:02:14.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PQN_VEsController.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_VEsController.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_VEsController.cs",
+              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_VEsController.cs",
+              "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_VEsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:00:45.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Models\\Model1.edmx",
+              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-03T12:56:37.446Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PQN_SUAT_CHIEUController.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_SUAT_CHIEUController.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_SUAT_CHIEUController.cs",
+              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_SUAT_CHIEUController.cs",
+              "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_SUAT_CHIEUController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:00:24.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\PQN_PHIMs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\PQN_PHIMs\\Index.cshtml",
+              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\PQN_PHIMs\\Index.cshtml",
+              "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\PQN_PHIMs\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAQwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T13:19:50.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PQN_PHONG_CHIEUController.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_PHONG_CHIEUController.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_PHONG_CHIEUController.cs",
+              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_PHONG_CHIEUController.cs",
+              "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_PHONG_CHIEUController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:59:43.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PQN_PHIMsController.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_PHIMsController.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_PHIMsController.cs",
+              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_PHIMsController.cs",
+              "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_PHIMsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwGwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:59:19.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PQN_QUAN_TRIController.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_QUAN_TRIController.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_QUAN_TRIController.cs",
+              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_QUAN_TRIController.cs",
+              "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_QUAN_TRIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:00:04.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PQN_KHACH_HANGController.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_KHACH_HANGController.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_KHACH_HANGController.cs",
+              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_KHACH_HANGController.cs",
+              "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Controllers\\PQN_KHACH_HANGController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:58:35.066Z"
             }
           ]
         }

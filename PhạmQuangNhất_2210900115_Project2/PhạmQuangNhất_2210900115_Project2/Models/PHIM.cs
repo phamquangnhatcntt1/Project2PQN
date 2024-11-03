@@ -26,6 +26,7 @@ namespace PhạmQuangNhất_2210900115_Project2.Models
         public string TheLoai { get; set; }
         public string DaoDien { get; set; }
         public string MoTa { get; set; }
+        public string HinhAnh { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<SUAT_CHIEU> SUAT_CHIEU { get; set; }

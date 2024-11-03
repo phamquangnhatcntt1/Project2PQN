@@ -6,16 +6,26 @@
 
 <h2>Edit</h2>
 
-
-@using (Html.BeginForm())
+@using (Html.BeginForm("Edit", "PQN_PHIMs", FormMethod.Post, new { enctype = "multipart/form-data" }))
 {
     @Html.AntiForgeryToken()
-    
+
     <div class="form-horizontal">
         <h4>PHIM</h4>
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
         @Html.HiddenFor(model => model.MaPhim)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.HinhAnh, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <img src="@Url.Content(Model.HinhAnh)" alt="Current image" style="width: 100px; height: auto; margin-bottom: 10px;" />
+                <input type="file" name="HinhAnhFile" class="form-control" accept="image/*" onchange="previewImage(event)" />
+                @Html.ValidationMessageFor(model => model.HinhAnh, "", new { @class = "text-danger" })
+                <img id="imagePreview" src="#" alt="Image preview" style="display: none; width: 100px; height: auto; margin-top: 10px;" />
+            </div>
+        </div>
 
         <div class="form-group">
             @Html.LabelFor(model => model.TenPhim, htmlAttributes: new { @class = "control-label col-md-2" })
@@ -72,3 +82,4 @@
 @section Scripts {
     @Scripts.Render("~/bundles/jqueryval")
 }
+

@@ -16,7 +16,7 @@ namespace PhạmQuangNhất_2210900115_Project2
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "PQN_PHIMs", action = "Index", id = UrlParameter.Optional }
             );
         }
     }
