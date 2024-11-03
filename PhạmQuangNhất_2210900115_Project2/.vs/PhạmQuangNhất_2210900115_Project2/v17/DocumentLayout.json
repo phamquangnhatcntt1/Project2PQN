@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\",
+  "WorkspaceRootPath": "E:\\Project2PQN\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|d:\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DA363448-85EF-4D6A-857B-88B972C5434B}|Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2.csproj|solutionrelative:ph\u1EA1mquangnh\u1EA5t_2210900115_project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project2PQN\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\Project2PQN\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Project2PQN\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Ph\u1EA1mQuangNh\u1EA5t_2210900115_Project2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAB9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T13:47:50.895Z",
               "EditorCaption": ""
