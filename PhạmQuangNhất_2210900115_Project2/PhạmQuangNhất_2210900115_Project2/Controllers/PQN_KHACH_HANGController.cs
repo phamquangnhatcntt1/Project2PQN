@@ -123,5 +123,45 @@ namespace PhạmQuangNhất_2210900115_Project2.Controllers
             }
             base.Dispose(disposing);
         }
+        public ActionResult Login()
+        {
+            return View();
+        }
+
+        // POST: PQN_KHACH_HANG/Login
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Login(string Tai_khoan, string Mat_khau)
+        {
+            if (string.IsNullOrEmpty(Tai_khoan) || string.IsNullOrEmpty(Mat_khau))
+            {
+                ModelState.AddModelError("", "Username and password are required.");
+                return View();
+            }
+
+            // Validate user credentials
+            var user = db.KHACH_HANG.SingleOrDefault(k => k.Tai_khoan == Tai_khoan && k.Mat_khau == Mat_khau);
+            if (user != null)
+            {
+                // Set session or cookie here if login is successful
+                Session["UserID"] = user.MaKH;
+                Session["Username"] = user.Tai_khoan;
+
+                return RedirectToAction("Index", "Home"); // Redirect to homepage or dashboard
+            }
+            else
+            {
+                ModelState.AddModelError("", "Invalid username or password.");
+                return View();
+            }
+        }
+
+        // Logout Action
+        public ActionResult Logout()
+        {
+            Session.Clear(); // Clear session data
+            return RedirectToAction("Login", "PQN_KHACH_HANG");
+        }
+
     }
 }
