@@ -2515,9 +2515,9 @@ fieldset:disabled a.btn {
 }
 
 .btn-success {
-  color: #fff;
-  background-color: #28a745;
-  border-color: #28a745;
+    color: #fff;
+    background-color: #495057;
+    border-color: #28a745;
 }
 .btn-success:hover {
   color: #fff;
@@ -6086,7 +6086,7 @@ button.bg-secondary:focus {
 }
 
 .bg-success {
-  background-color: #28a745 !important;
+    background-color: #495057 !important;
 }
 
 a.bg-success:hover, a.bg-success:focus,
